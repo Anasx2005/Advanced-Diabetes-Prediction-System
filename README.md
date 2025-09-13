@@ -4,7 +4,7 @@
 This project develops a robust, clinically informed machine learning system to predict diabetes status (binary outcome) using the Pima Indians Diabetes dataset. The workflow integrates medical domain knowledge, rigorous preprocessing, feature engineering, model benchmarking.
 
 ## Deployment 
-you can see my progect entire this link " https://advanced-diabetes-prediction-system-faoaukgccytpmytbyusj3b.streamlit.app/ "
+you can see my progect entire this link https://advanced-diabetes-prediction-system-vkqf2td3hvr6fduvxe8neo.streamlit.app/
 
 ## Objectives
 - Clean and preprocess clinically noisy tabular health data.
@@ -103,5 +103,6 @@ predict_diabetes_risk_enhanced(
     age=44
 )
 ```
+
 
 
